@@ -24,7 +24,8 @@
   "cordova": {
     "platforms": [
       "browser",
-      "android"
+      "android",
+      "ios"
     ],
     "plugins": {
       "cordova-plugin-device": {},
@@ -34,5 +35,7 @@
       "cordova-plugin-ionic-keyboard": {}
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "cordova-ios": "^5.1.1"
+  }
 }
