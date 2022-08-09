@@ -1790,6 +1790,7 @@ bp-product-detail-content {
   @include notSelectable;
   p {
     text-align: left;
+    padding: 5px;
   }
   iframe {
     max-width: 100%;
