@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77a04b61-fc3e-4270-a648-b65ad6465d24" name="Default Changelist" comment="10.11.2022">
-      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/main.1e3f38da8cf1d8bc292c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/ngsw.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/ngsw.json" afterDir="false" />
-    </list>
+    <list default="true" id="77a04b61-fc3e-4270-a648-b65ad6465d24" name="Default Changelist" comment="10.11.2022-1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +56,7 @@
       <updated>1660074475808</updated>
       <workItem from="1660074476851" duration="606000" />
       <workItem from="1665755669412" duration="6437000" />
-      <workItem from="1667930003368" duration="1793000" />
+      <workItem from="1667930003368" duration="2847000" />
     </task>
     <task id="LOCAL-00001" summary="10.11.2022">
       <created>1667962228758</created>
@@ -69,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667962228758</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="10.11.2022-1">
+      <created>1667962763584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667962763584</updated>
+    </task>
+    <task id="LOCAL-00003" summary="10.11.2022-1">
+      <created>1667962768226</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667962768226</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,13 +98,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10.11.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.11.2022" />
+    <MESSAGE value="10.11.2022-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.11.2022-1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1667930797977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1667930797977" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1667962780393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1667962780393" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1665762783694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1667962639825,
+  "timestamp": 1667967811676,
   "index": "/index-prod.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/OneSignalSDKUpdaterWorker.js",
         "/OneSignalSDKWorker.js",
         "/index.html",
-        "/main.98d3d60dfa94ca4e28cd.js",
+        "/main.89e82b6553b6c2d8e376.js",
         "/polyfills.7e61eeabe4f75fabb7d3.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/scripts.c12eb6b1b0e68faeff5c.js",
@@ -54,9 +54,9 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/index.html": "86040c0310ca50090a74648079ad9b07cbf32344",
+    "/index.html": "8419406679c44fda112e30bb28ce47cc33a14804",
     "/install_btn.f75d3bd40fdbaf81dca2.svg": "28ce9a800240d60a58b53c7d2a3ea05d483029e8",
-    "/main.98d3d60dfa94ca4e28cd.js": "e2bc11bf85775c944d3640bf8da1fcc91bdef4b6",
+    "/main.89e82b6553b6c2d8e376.js": "509e448d710ad50c43150788750849a69a1225d3",
     "/phonehand.b7f98bcfa8095ef9eee4.jpg": "9533156cfcd96c34474eb2c5769d540ae6c21d49",
     "/polyfills.7e61eeabe4f75fabb7d3.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
