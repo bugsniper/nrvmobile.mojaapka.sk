@@ -925,9 +925,9 @@ app-select-workplace {
   }
 
   .map-navigation {
-    left: 16px;
+    left: 30px;
     position: absolute;
-    bottom: 16px;
+    bottom: 50px;
   }
 
   .map-address {
@@ -1903,14 +1903,9 @@ bp-operation-detail-content {
   background-color: #F1F1F1;
   overflow: auto;
   .banner-image {
-    float: left;
     width: 100%;
     overflow: hidden;
     position: relative;
-    z-index: 5;
-    height: 32vh;
-    background-position: center;
-    background-size: cover;
     img {
       width: 100%;
     }
