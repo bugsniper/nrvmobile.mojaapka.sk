@@ -20,7 +20,8 @@
     "cordova-plugin-ionic-keyboard": "^2.2.0",
     "cordova-plugin-ionic-webview": "^5.0.0",
     "cordova-plugin-splashscreen": "^5.0.2",
-    "cordova-plugin-statusbar": "^2.4.2"
+    "cordova-plugin-statusbar": "^2.4.2",
+    "onesignal-cordova-plugin": "^3.3.0"
   },
   "cordova": {
     "platforms": [
@@ -34,7 +35,8 @@
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {},
-      "cordova-plugin-inappbrowser": {}
+      "cordova-plugin-inappbrowser": {},
+      "onesignal-cordova-plugin": {}
     }
   },
   "dependencies": {
