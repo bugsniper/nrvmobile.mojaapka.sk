@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77a04b61-fc3e-4270-a648-b65ad6465d24" name="Default Changelist" comment="28.11.2022">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/main.7b6e45cd39b244d33e76.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.0239e4013fbcb8138f7d.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/ngsw.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/ngsw.json" afterDir="false" />
-    </list>
+    <list default="true" id="77a04b61-fc3e-4270-a648-b65ad6465d24" name="Default Changelist" comment="28.11.2022" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../powerslice/WORKSPACE/GSD_MOBILE/webappfarms_logistx" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -82,7 +76,7 @@
       <workItem from="1677481596944" duration="1164000" />
       <workItem from="1678296890358" duration="2523000" />
       <workItem from="1678464637253" duration="2554000" />
-      <workItem from="1679068909092" duration="37000" />
+      <workItem from="1679068909092" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="10.11.2022">
       <created>1667962228758</created>
@@ -160,14 +154,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="28.11.2022" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1677482902100">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1679070517095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1677482902100" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1669624277931">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1669624277931" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1679070517095" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1677482884643">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
