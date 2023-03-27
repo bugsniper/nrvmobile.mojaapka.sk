@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77a04b61-fc3e-4270-a648-b65ad6465d24" name="Default Changelist" comment="28.11.2022" />
+    <list default="true" id="77a04b61-fc3e-4270-a648-b65ad6465d24" name="Default Changelist" comment="28.11.2022">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/main.78e715f297a63d307f24.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.21b67c4a7018628025aa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/ngsw.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/ngsw.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../powerslice/WORKSPACE/GSD_MOBILE/webappfarms_logistx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,6 +83,8 @@
       <workItem from="1678296890358" duration="2523000" />
       <workItem from="1678464637253" duration="2554000" />
       <workItem from="1679068909092" duration="658000" />
+      <workItem from="1679392532633" duration="614000" />
+      <workItem from="1679907382285" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="10.11.2022">
       <created>1667962228758</created>
