@@ -23,7 +23,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/main.78e715f297a63d307f24.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.21b67c4a7018628025aa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/main.21b67c4a7018628025aa.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/www/ngsw.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/ngsw.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,7 @@
       <workItem from="1678464637253" duration="2554000" />
       <workItem from="1679068909092" duration="658000" />
       <workItem from="1679392532633" duration="614000" />
-      <workItem from="1679907382285" duration="9000" />
+      <workItem from="1679907382285" duration="2432000" />
     </task>
     <task id="LOCAL-00001" summary="10.11.2022">
       <created>1667962228758</created>
