@@ -1104,7 +1104,7 @@ bp-login-form, bp-forgotten-password-form {
   padding: 0 16px;
   box-sizing: border-box;
 
-  @media screen and (max-width: 350px) {
+  @media screen and (max-width: 380px) {
     font-size: 13px;
   }
 
@@ -1112,7 +1112,7 @@ bp-login-form, bp-forgotten-password-form {
     float: left;
     width: 44%;
 
-    @media screen and (max-width: 350px) {
+    @media screen and (max-width: 380px) {
       width: 32%;
     }
   }
@@ -1121,7 +1121,7 @@ bp-login-form, bp-forgotten-password-form {
     float: left;
     width: 27.5%;
 
-    @media screen and (max-width: 350px) {
+    @media screen and (max-width: 380px) {
       width: 34%;
     }
   }
