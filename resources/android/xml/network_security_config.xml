@@ -6,5 +6,6 @@
         <domain includeSubdomains="true">youtube.com</domain>
         <domain includeSubdomains="true">ytimg.com</domain>
         <domain includeSubdomains="true">youtube-nocookie.com</domain>
+        <domain includeSubdomains="true">www.novedivadlo.sk</domain>
     </domain-config>
 </network-security-config>
