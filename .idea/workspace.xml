@@ -22,11 +22,9 @@
     <list default="true" id="77a04b61-fc3e-4270-a648-b65ad6465d24" name="Default Changelist" comment="28.11.2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/android/xml/network_security_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/android/xml/network_security_config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/main.6b575cdad308e513ce6a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/main.8d8df826ce7d425d1a12.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/www/ngsw.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/ngsw.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/styles.bf969c021f095ceea024.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/works/maros_projects/cordovaProject/nv.mobile",
+    "last_opened_file_path": "D:/works/maros_projects/backup/business_place_detail_app_frontend",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,6 +82,8 @@
       <workItem from="1679907382285" duration="2432000" />
       <workItem from="1683568740415" duration="806000" />
       <workItem from="1683571742358" duration="560000" />
+      <workItem from="1684161536358" duration="12000" />
+      <workItem from="1684170928310" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="10.11.2022">
       <created>1667962228758</created>
