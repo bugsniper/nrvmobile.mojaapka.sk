@@ -23,7 +23,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/main.835822f25f7920ffa5f0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/main.951a4468ac48ce73cfe7.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/www/ngsw.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/ngsw.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/works/maros_projects/cordovaProject/nv.mobile",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -86,7 +87,8 @@
       <workItem from="1684170928310" duration="322000" />
       <workItem from="1684171929785" duration="133000" />
       <workItem from="1687196357001" duration="1564000" />
-      <workItem from="1688058956706" duration="16000" />
+      <workItem from="1688058956706" duration="635000" />
+      <workItem from="1688407074927" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="10.11.2022">
       <created>1667962228758</created>
