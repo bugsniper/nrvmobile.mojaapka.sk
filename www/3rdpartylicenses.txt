@@ -447,8 +447,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-@angular/material/card
-
 @angular/material/snack-bar
 
 @angular/service-worker

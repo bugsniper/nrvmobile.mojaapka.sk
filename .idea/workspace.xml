@@ -20,11 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77a04b61-fc3e-4270-a648-b65ad6465d24" name="Default Changelist" comment="v1.0.38">
+      <change afterPath="$PROJECT_DIR$/drinkexpres.jks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/3rdpartylicenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/www/3rdpartylicenses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/business-place-v2/assets/scss/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/app/business-place-v2/assets/scss/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/main.951a4468ac48ce73cfe7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/main.97f55c017a05d91384a5.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/www/ngsw.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/ngsw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/styles.10a00e0874899c884a86.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/styles.e37d44092a896676a806.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +93,9 @@
       <workItem from="1687196357001" duration="1564000" />
       <workItem from="1688058956706" duration="635000" />
       <workItem from="1688407074927" duration="23000" />
+      <workItem from="1689343231548" duration="21000" />
+      <workItem from="1693593416473" duration="1575000" />
+      <workItem from="1693843752021" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="10.11.2022">
       <created>1667962228758</created>
