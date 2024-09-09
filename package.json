@@ -16,10 +16,10 @@
     "cordova-android": "^13.0.0",
     "cordova-browser": "^6.0.0",
     "cordova-plugin-device": "^2.1.0",
+    "cordova-plugin-geolocation": "^5.0.0",
     "cordova-plugin-inappbrowser": "^5.0.0",
     "cordova-plugin-ionic-keyboard": "^2.2.0",
     "cordova-plugin-ionic-webview": "^5.0.0",
-    "cordova-plugin-splashscreen": "^5.0.2",
     "cordova-plugin-statusbar": "^2.4.2",
     "onesignal-cordova-plugin": "^3.3.0"
   },
@@ -32,11 +32,13 @@
     "plugins": {
       "cordova-plugin-device": {},
       "cordova-plugin-statusbar": {},
-      "cordova-plugin-splashscreen": {},
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {},
       "cordova-plugin-inappbrowser": {},
-      "onesignal-cordova-plugin": {}
+      "onesignal-cordova-plugin": {},
+      "cordova-plugin-geolocation": {
+        "GPS_REQUIRED": "true"
+      }
     }
   },
   "dependencies": {
