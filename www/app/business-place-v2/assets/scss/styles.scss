@@ -15,7 +15,7 @@ $green: #5BC60D;
 //  html {
 //    transform: rotate(-90deg);
 //    transform-origin: left top;
-//    width: 100vh;
+//    width: 100svh;
 //    overflow-x: hidden;
 //    position: absolute;
 //    top: 100%;
@@ -3086,4 +3086,15 @@ bp-sms-notification {
   bottom: 10px;
   right: 5%;
   z-index: -1;
+}
+.mat-carousel{
+  .mat-white {
+    color: white !important; /* Change this to your desired color */
+    .mat-icon {
+      color: white !important; /* Change this to your desired color */
+    }
+  }
+}
+.mat-carousel .mat-icon-button {
+  color: white !important;
 }
