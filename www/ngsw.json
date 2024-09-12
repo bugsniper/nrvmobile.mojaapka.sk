@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1725888804171,
+  "timestamp": 1726134421157,
   "index": "/index-prod.html",
   "assetGroups": [
     {
@@ -11,11 +11,11 @@
         "/OneSignalSDKUpdaterWorker.js",
         "/OneSignalSDKWorker.js",
         "/index.html",
-        "/main.fcb6ec79bffffd9aa2ab.js",
+        "/main.8c70cf13c703f8156eda.js",
         "/polyfills.7e61eeabe4f75fabb7d3.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/scripts.c12eb6b1b0e68faeff5c.js",
-        "/styles.de17b822b2c9d5028a0c.css"
+        "/styles.994bd3960b2f04213e3a.css"
       ],
       "patterns": []
     },
@@ -53,8 +53,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/OneSignalSDKUpdaterWorker.js": "9d5c9f646ae71a29110e128af1c370b709ec0863",
-    "/OneSignalSDKWorker.js": "9d5c9f646ae71a29110e128af1c370b709ec0863",
+    "/OneSignalSDKUpdaterWorker.js": "4b8a7abd397b26531c2fc431a9427aeb5f881315",
+    "/OneSignalSDKWorker.js": "4b8a7abd397b26531c2fc431a9427aeb5f881315",
     "/assets/icons/8874-8874-Ostredok(1).png": "1d0400ecaffe52f832cbf4a0d53b0cc5a6c06599",
     "/assets/icons/8874-8874-Ostredok.png": "35397156b1e01e4b8272ad73f0f0e7bdf647e385",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
@@ -76,14 +76,14 @@
     "/assets/map/map_place_open_location-cropped.svg": "4ab8c890e2f7199e4c3ada41147185bb6e3e0463",
     "/assets/map/map_user_around-cropped.svg": "a72378610998c6d0426c35bf2a175293dcd4e658",
     "/assets/map/map_user_location-cropped.svg": "8b18bbbde2944e0425897299dddde229461ef4b8",
-    "/index.html": "30c6a7f6c63fd44a162c2abc6c7e50cc7f06cd18",
+    "/index.html": "1788b8bd260ab0c3c4f7eddc396a51d1cdb1eaa1",
     "/install_btn.f75d3bd40fdbaf81dca2.svg": "28ce9a800240d60a58b53c7d2a3ea05d483029e8",
-    "/main.fcb6ec79bffffd9aa2ab.js": "55ea0f2f57716e4fa80b0dd94bb2beb08151018b",
+    "/main.8c70cf13c703f8156eda.js": "61f2374cb09a75f208207d52ba2728686b40e3e6",
     "/phonehand.b7f98bcfa8095ef9eee4.jpg": "9533156cfcd96c34474eb2c5769d540ae6c21d49",
     "/polyfills.7e61eeabe4f75fabb7d3.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/scripts.c12eb6b1b0e68faeff5c.js": "7a8f250f2eb08c7104f6653c543f811419889258",
-    "/styles.de17b822b2c9d5028a0c.css": "293586314ed22329756820a42ac527c3c83f5db0"
+    "/styles.994bd3960b2f04213e3a.css": "c657b8ac77103ff5c83da2d82dac53f69c82a0e5"
   },
   "navigationUrls": [
     {
