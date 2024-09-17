@@ -927,9 +927,28 @@ app-select-workplace {
   }
 
   .map-navigation {
-    left: 30px;
+    left: 20px;
     position: absolute;
     bottom: 50px;
+
+    .navigate-button {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+      background: #5BC60D;
+      padding: 5px;
+      border-radius: 5px;
+      margin: 0 15px;
+      width: 100%;
+      span {
+        font-size: 12px;
+        color: #fff;
+      }
+      img {
+        width: 15px;
+      }
+    }
   }
 
   .map-address {

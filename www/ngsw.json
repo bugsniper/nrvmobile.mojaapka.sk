@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1726492169043,
+  "timestamp": 1726595334037,
   "index": "/index-prod.html",
   "assetGroups": [
     {
@@ -11,11 +11,11 @@
         "/OneSignalSDKUpdaterWorker.js",
         "/OneSignalSDKWorker.js",
         "/index.html",
-        "/main.48111c8ff0a0a6e27d1b.js",
+        "/main.248a71f80d49798257e7.js",
         "/polyfills.7e61eeabe4f75fabb7d3.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/scripts.c12eb6b1b0e68faeff5c.js",
-        "/styles.ea82fee2ba9e10a030e5.css"
+        "/styles.60c9a29f80737f376819.css"
       ],
       "patterns": []
     },
@@ -76,14 +76,14 @@
     "/assets/map/map_place_open_location-cropped.svg": "4ab8c890e2f7199e4c3ada41147185bb6e3e0463",
     "/assets/map/map_user_around-cropped.svg": "a72378610998c6d0426c35bf2a175293dcd4e658",
     "/assets/map/map_user_location-cropped.svg": "8b18bbbde2944e0425897299dddde229461ef4b8",
-    "/index.html": "3469e1af087ba4821d1888996577664e5724b3d2",
+    "/index.html": "66f6739e61d6cdcb78a26e0fcf277d595113f51d",
     "/install_btn.f75d3bd40fdbaf81dca2.svg": "28ce9a800240d60a58b53c7d2a3ea05d483029e8",
-    "/main.48111c8ff0a0a6e27d1b.js": "9aa115665ce13f5dfa6d9c2c6bc546afd11153e9",
+    "/main.248a71f80d49798257e7.js": "3101ce6e60f9eb8ff7aa26a418c9d19920c257aa",
     "/phonehand.b7f98bcfa8095ef9eee4.jpg": "9533156cfcd96c34474eb2c5769d540ae6c21d49",
     "/polyfills.7e61eeabe4f75fabb7d3.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/scripts.c12eb6b1b0e68faeff5c.js": "7a8f250f2eb08c7104f6653c543f811419889258",
-    "/styles.ea82fee2ba9e10a030e5.css": "007f99fc3d6f68341d064f3cd77663d8c53d35a9"
+    "/styles.60c9a29f80737f376819.css": "bafb12ea2d9bfb7e3ec6f8f807b6d1b7420f4a2d"
   },
   "navigationUrls": [
     {
