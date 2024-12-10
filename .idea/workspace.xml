@@ -49,7 +49,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/works/mako/mako_frontend",
+    "last_opened_file_path": "E:/maros_project/business_place_detail_app_frontend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -123,6 +123,7 @@
       <workItem from="1726201176553" duration="855000" />
       <workItem from="1726492200456" duration="4935000" />
       <workItem from="1726720932647" duration="4000" />
+      <workItem from="1733836894728" duration="441000" />
     </task>
     <task id="LOCAL-00001" summary="10.11.2022">
       <created>1667962228758</created>
