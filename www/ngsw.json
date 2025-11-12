@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1735298117357,
+  "timestamp": 1762964461343,
   "index": "/index-prod.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/OneSignalSDKUpdaterWorker.js",
         "/OneSignalSDKWorker.js",
         "/index.html",
-        "/main.8c32a5b476b6b6b23ef4.js",
+        "/main.056014664e46f36b4847.js",
         "/polyfills.7e61eeabe4f75fabb7d3.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/scripts.c12eb6b1b0e68faeff5c.js",
@@ -53,8 +53,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/OneSignalSDKUpdaterWorker.js": "4b8a7abd397b26531c2fc431a9427aeb5f881315",
-    "/OneSignalSDKWorker.js": "4b8a7abd397b26531c2fc431a9427aeb5f881315",
+    "/OneSignalSDKUpdaterWorker.js": "9d5c9f646ae71a29110e128af1c370b709ec0863",
+    "/OneSignalSDKWorker.js": "9d5c9f646ae71a29110e128af1c370b709ec0863",
     "/assets/icons/8874-8874-Ostredok(1).png": "1d0400ecaffe52f832cbf4a0d53b0cc5a6c06599",
     "/assets/icons/8874-8874-Ostredok.png": "35397156b1e01e4b8272ad73f0f0e7bdf647e385",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
@@ -76,9 +76,9 @@
     "/assets/map/map_place_open_location-cropped.svg": "4ab8c890e2f7199e4c3ada41147185bb6e3e0463",
     "/assets/map/map_user_around-cropped.svg": "a72378610998c6d0426c35bf2a175293dcd4e658",
     "/assets/map/map_user_location-cropped.svg": "8b18bbbde2944e0425897299dddde229461ef4b8",
-    "/index.html": "8624ff9c1d8cc804b5c75c76939208850f6b7431",
+    "/index.html": "e099ac18897bdd810fdf74716a2f328c155e8442",
     "/install_btn.f75d3bd40fdbaf81dca2.svg": "28ce9a800240d60a58b53c7d2a3ea05d483029e8",
-    "/main.8c32a5b476b6b6b23ef4.js": "06338a5a0da62ba3683d037e03d380726180c409",
+    "/main.056014664e46f36b4847.js": "fa4ac5f48cfc3b2611054ca8bf1e1d49e954043f",
     "/phonehand.b7f98bcfa8095ef9eee4.jpg": "9533156cfcd96c34474eb2c5769d540ae6c21d49",
     "/polyfills.7e61eeabe4f75fabb7d3.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
